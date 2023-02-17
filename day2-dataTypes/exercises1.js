@@ -67,4 +67,3 @@ console.log(day.concat('Javascript'))
 console.log(challenge.repeat(2))
 
 
-
